@@ -19,9 +19,9 @@ github_link: https://github.com/tgedankien
 linkedin: https://www.linkedin.com/in/tamara-gedankien-63a7a929/?locale=en_US
 twitter: https://twitter.com/Gedankient
 
-# # Images 
-# avatar: https://img.yliu.me/avatar.jpg
-# favicon: ./assets/img/favicon.png
+# Images 
+avatar: ./assets/img/Gedankien_Headshot.jpg
+favicon: ./assets/img/Gedankien_Headshot.jpg
 # favicon_dark: ./assets/img/favicon-dark.png
 
 # # Footnotes
