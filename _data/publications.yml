@@ -8,7 +8,7 @@ main:
     code: https://github.com/xfflzl/CIM-CIL
     page: https://class-il.mpi-inf.mpg.de/CIM/
     bibtex: https://dblp.org/rec/conf/cvpr/Luo0SS23.html?view=bibtex
-    image: https://img.yliu.me/teaser/cvpr23_2.png
+    image: https://img.yliu.me/teaser/iNeMo.png
     
   - title: "A consensus statement on detection of hippocampal sharp wave ripples and differentiation from other fast oscillations"
     authors: Anli A Liu, Simon Henin, Saman Abbaspoor, Anatol Bragin, Elizabeth A Buffalo, Jordan S Farrell, David J Foster, Loren M Frank, 
@@ -23,7 +23,7 @@ main:
     code: https://github.com/xfflzl/CIM-CIL
     page: https://class-il.mpi-inf.mpg.de/CIM/
     bibtex: https://dblp.org/rec/conf/cvpr/Luo0SS23.html?view=bibtex
-    image: https://img.yliu.me/teaser/cvpr23_2.png
+    image: https://img.yliu.me/teaser/iNeMo.png
     
   - title: "The effect of navigational aids on spatial memory in virtual reality"
     authors: Shachar Maidenbaum, Ansh Patel, <strong>Tamara Gedankien</strong>, Joshua Jacobs
@@ -33,7 +33,7 @@ main:
     code: https://github.com/xfflzl/CIM-CIL
     page: https://class-il.mpi-inf.mpg.de/CIM/
     bibtex: https://dblp.org/rec/conf/cvpr/Luo0SS23.html?view=bibtex
-    image: https://img.yliu.me/teaser/cvpr23_2.png
+    image: https://img.yliu.me/teaser/iNeMo.png
     
   - title: "Intermittent theta-burst stimulation induces correlated changes in cortical and corticospinal excitability in healthy older subjects"
     authors: <strong>Tamara Gedankien</strong>, Peter J Fried, Alvaro Pascual-Leone, Mouhsin M Shafi
@@ -43,6 +43,6 @@ main:
     code: https://github.com/xfflzl/CIM-CIL
     page: https://class-il.mpi-inf.mpg.de/CIM/
     bibtex: https://dblp.org/rec/conf/cvpr/Luo0SS23.html?view=bibtex
-    image: https://img.yliu.me/teaser/cvpr23_2.png
+    image: https://img.yliu.me/teaser/iNeMo.png
     
     
