@@ -23,7 +23,7 @@ main:
     pdf: https://ieeexplore.ieee.org/abstract/document/9090647
     image: https://img.yliu.me/teaser/iNeMo.png
 
-      - title: "Intermittent theta-burst stimulation induces correlated changes in cortical and corticospinal excitability in healthy older subjects"
+  - title: "Intermittent theta-burst stimulation induces correlated changes in cortical and corticospinal excitability in healthy older subjects"
     authors: <strong>Tamara Gedankien</strong>, Peter J Fried, Alvaro Pascual-Leone, Mouhsin M Shafi
     conference: Clinical Neurophysiology, 2017.
     pdf: https://www.sciencedirect.com/science/article/pii/S1388245717309677
