@@ -13,5 +13,3 @@ Currently, I am a postdoctoral scientist with [Joshua Jacobs](https://jacobslab.
 {% include_relative _includes/preprints.md %}
 
 {% include_relative _includes/talks.md %}
-
-{% include_relative _includes/contact.md %}
