@@ -2,9 +2,13 @@ main:
 
   - title: "Acetylcholine modulates the temporal dynamics of human theta oscillations during memory"
     authors: <strong>Tamara Gedankien</strong>, Ryan Joseph Tan, Salman Ehtesham Qasim, Haley Moore, David McDonagh, Joshua Jacobs, Bradley Lega
+    conference_short: NatComms
     conference: Nature communications, 2023.
     pdf: https://www.nature.com/articles/s41467-023-41025-y
-    image: https://img.yliu.me/teaser/iNeMo.png
+    code: https://github.com/xfflzl/CIM-CIL
+    page: https://class-il.mpi-inf.mpg.de/CIM/
+    bibtex: https://dblp.org/rec/conf/cvpr/Luo0SS23.html?view=bibtex
+    image: https://img.yliu.me/teaser/cvpr23_2.png
     
   - title: "A consensus statement on detection of hippocampal sharp wave ripples and differentiation from other fast oscillations"
     authors: Anli A Liu, Simon Henin, Saman Abbaspoor, Anatol Bragin, Elizabeth A Buffalo, Jordan S Farrell, David J Foster, Loren M Frank, 
@@ -13,20 +17,32 @@ main:
     Kathryn McClain, Bruce L McNaughton, Yitzhak Norman, Andrea Navas-Olive, Liset M de la Prida,
     Jon W Rueckemann, John J Sakon, Ivan Skelin, Ivan Soltesz, Bernhard P Staresina, Shennnan A Weiss, 
     Matthew A Wilson, Kareem A Zaghloul, Michaël Zugaro, György Buzsáki
+    conference_short: NatComms
     conference: Nature communications, 2022.
     pdf: https://www.nature.com/articles/s41467-022-33536-x
-    image: https://img.yliu.me/teaser/iNeMo.png
-
+    code: https://github.com/xfflzl/CIM-CIL
+    page: https://class-il.mpi-inf.mpg.de/CIM/
+    bibtex: https://dblp.org/rec/conf/cvpr/Luo0SS23.html?view=bibtex
+    image: https://img.yliu.me/teaser/cvpr23_2.png
+    
   - title: "The effect of navigational aids on spatial memory in virtual reality"
     authors: Shachar Maidenbaum, Ansh Patel, <strong>Tamara Gedankien</strong>, Joshua Jacobs
+    conference_short: IEEE
     conference: IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 2020.
     pdf: https://ieeexplore.ieee.org/abstract/document/9090647
-    image: https://img.yliu.me/teaser/iNeMo.png
-
+    code: https://github.com/xfflzl/CIM-CIL
+    page: https://class-il.mpi-inf.mpg.de/CIM/
+    bibtex: https://dblp.org/rec/conf/cvpr/Luo0SS23.html?view=bibtex
+    image: https://img.yliu.me/teaser/cvpr23_2.png
+    
   - title: "Intermittent theta-burst stimulation induces correlated changes in cortical and corticospinal excitability in healthy older subjects"
     authors: <strong>Tamara Gedankien</strong>, Peter J Fried, Alvaro Pascual-Leone, Mouhsin M Shafi
+    conference_short: Clin. Neurophysiol.
     conference: Clinical Neurophysiology, 2017.
     pdf: https://www.sciencedirect.com/science/article/pii/S1388245717309677
-    image: https://img.yliu.me/teaser/iNeMo.png
+    code: https://github.com/xfflzl/CIM-CIL
+    page: https://class-il.mpi-inf.mpg.de/CIM/
+    bibtex: https://dblp.org/rec/conf/cvpr/Luo0SS23.html?view=bibtex
+    image: https://img.yliu.me/teaser/cvpr23_2.png
     
     
