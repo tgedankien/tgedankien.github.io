@@ -1,8 +1,8 @@
  main:
 
   - title: "Acetylcholine modulates the temporal dynamics of human theta oscillations during memory"
-    authors: Tom Fischer, <strong>Yaoyao Liu</strong>, Artur Jesslen, Noor Ahmed, Prakhar Kaushik, Angtian Wang, Alan Yuille, Adam Kortylewski, Eddy Ilg
-    conference_short: ECCV
+    authors: <strong>Tamara Gedankien</strong>, Ryan Joseph Tan, Salman Ehtesham Qasim, Haley Moore, David McDonagh, Joshua Jacobs, Bradley Lega
+    conference_short: NatComms
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
     pdf: https://www.cs.jhu.edu/~yyliu/preprints/iNeMo_Incremental_Neural_Mesh_Models_for_Robust_Class-Incremental_Learning.pdf
     code: https://github.com/Fischer-Tom/iNeMo
