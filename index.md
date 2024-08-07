@@ -9,3 +9,5 @@ layout: homepage
 Currently, I am a postdoctoral research scientist in [Joshua Jacobs' lab](https://jacobslab.bme.columbia.edu/) at Columbia University. In the fall of 2023, I was a visiting scholar in [Lukas Kunz's lab](https://spatialmemorylab.com/author/lukas-kunz-md-phd/) at the University of Bonn in Germany. I received my Ph.D. in Biomedical Engineering from Columbia in 2023. Prior to graduate school, I was a research assistant for Mouhsin Shafi at the [Berenson-Allen Center for Noninvasive Brain Stimulation](https://www.tmslab.org/) at the Harvard Medical School. I earned my B.S. in Biomedical Engineering from the Illinois Institute of Technology in 2015.
 
 {% include_relative _includes/publications.md %}
+
+{% include_relative _includes/talks.md %}
