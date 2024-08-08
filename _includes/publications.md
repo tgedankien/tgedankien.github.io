@@ -57,8 +57,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1388245717309677">Intermittent theta-burst stimulation induces correlated changes in cortical and corticospinal excitability in healthy older subjects</a></div>
-      <div class="author"><strong>Tamara Gedankien</strong>, Peter J. Fried, Alvaro Pascual-Leone and Mouhsin M. Shafi.
-</div>
+      <div class="author"><strong>Tamara Gedankien</strong>, Peter J. Fried, Alvaro Pascual-Leone and Mouhsin M. Shafi.</div>
       <div class="periodical"><em>Clinical Neurophysiology, 2017.</em>
       </div>
     <div class="links">
