@@ -14,13 +14,16 @@
     # image: https://img.yliu.me/teaser/iNeMo.png
     image: ./assets/img/website_ripple_fig.jpg
 
-  - title: "Intermittent theta-burst stimulation induces correlated changes in cortical and corticospinal excitability in healthy older subjects"
-    authors: <strong>Tamara Gedankien</strong>, Peter Fried, Alvaro Pascual-Leone and Mouhsin Shafi.
-    conference_short: 	Clin. Neurophysiol.
-    conference: Clinical Neurophysiology, 2017.
-    pdf: https://www.sciencedirect.com/science/article/pii/S1388245717309677
+  - title: "Propagation of TMS pulses versus functional brain connectivity"
+    authors: D Klooster, J Vink, P van Mierlo, P Boon, Danielle Cooke, <strong>Tamara Gedankien</strong>, Andrew Roberts, Pierre Boucher, Alvaro Pascual-Leone, Michael Fox, and Mouhsin M. Shafi.
+    conference_short: Brain Stimul.
+    conference: Brain Stimulation, 2019.
+    pdf: https://www.brainstimjrnl.com/article/S1935-861X(18)30880-5/fulltext
     # code: https://github.com/Fischer-Tom/iNeMo
     # bibtex: https://bib.yliu.me/ECCV24.txt
     # image: https://img.yliu.me/teaser/iNeMo.png
     image: ./assets/img/website_itbs_fig.jpg
+
+
+
  
