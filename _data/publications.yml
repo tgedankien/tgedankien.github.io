@@ -29,7 +29,7 @@
     # code: https://github.com/Fischer-Tom/iNeMo
     # bibtex: https://bib.yliu.me/ECCV24.txt
     # image: https://img.yliu.me/teaser/iNeMo.png
-    image: ./assets/img/website_itbs_fig.jpg
+    image: ./assets/img/website_spatial_fig.jpg
 
   - title: "Propagation of TMS pulses versus functional brain connectivity"
     authors: D Klooster, J Vink, P van Mierlo, P Boon, Danielle Cooke, <strong>Tamara Gedankien</strong>, Andrew Roberts, Pierre Boucher, Alvaro Pascual-Leone, Michael Fox, and Mouhsin M. Shafi.
