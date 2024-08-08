@@ -1,26 +1,26 @@
  main:
 
-  - title: "A consensus statement on detection of hippocampal sharp wave ripples and differentiation from other fast oscillations"
-    authors: Anli A Liu, Simon Henin, Saman Abbaspoor, Anatol Bragin, Elizabeth A Buffalo, Jordan S Farrell, 
-    David J Foster, Loren M Frank, <strong>Tamara Gedankien</strong>, Jean Gotman, Jennifer A Guidera, Kari L Hoffman, Joshua Jacobs, Michael J Kahana, Lin Li, 
-    Zhenrui Liao, Jack J Lin, Attila Losonczy, Rafael Malach, Matthijs A van der Meer, Kathryn McClain, Bruce L McNaughton, Yitzhak Norman, 
-    Andrea Navas-Olive, Liset M de la Prida, Jon W Rueckemann, John J Sakon, Ivan Skelin, Ivan Soltesz, Bernhard P Staresina, Shennan A Weiss, 
-    Matthew A Wilson, Kareem A Zaghloul, Michaël Zugaro, György Buzsáki
-    conference_short: Nat. Commun.
-    conference: Nature Communications, 2022.
-    pdf: https://www.nature.com/articles/s41467-022-33536-x
-    # code: https://github.com/Fischer-Tom/iNeMo
-    # bibtex: https://bib.yliu.me/ECCV24.txt
-    # image: https://img.yliu.me/teaser/iNeMo.png
-    image: ./assets/img/website_ripple_fig.jpg
-
-  # - title: "Intermittent theta-burst stimulation induces correlated changes in cortical and corticospinal excitability in healthy older subjects"
-  #   authors: <strong>Tamara Gedankien</strong>, Peter J Fried, Alvaro Pascual-Leone, Mouhsin M Shafi
-  #   conference_short: 	Clin. Neurophysiol.
-  #   conference: Clinical Neurophysiology, 2017.
-  #   pdf: https://www.sciencedirect.com/science/article/pii/S1388245717309677
+  # - title: "A consensus statement on detection of hippocampal sharp wave ripples and differentiation from other fast oscillations"
+  #   authors: Anli A Liu, Simon Henin, Saman Abbaspoor, Anatol Bragin, Elizabeth A Buffalo, Jordan S Farrell, 
+  #   David J Foster, Loren M Frank, <strong>Tamara Gedankien</strong>, Jean Gotman, Jennifer A Guidera, Kari L Hoffman, Joshua Jacobs, Michael J Kahana, Lin Li, 
+  #   Zhenrui Liao, Jack J Lin, Attila Losonczy, Rafael Malach, Matthijs A van der Meer, Kathryn McClain, Bruce L McNaughton, Yitzhak Norman, 
+  #   Andrea Navas-Olive, Liset M de la Prida, Jon W Rueckemann, John J Sakon, Ivan Skelin, Ivan Soltesz, Bernhard P Staresina, Shennan A Weiss, 
+  #   Matthew A Wilson, Kareem A Zaghloul, Michaël Zugaro, György Buzsáki
+  #   conference_short: Nat. Commun.
+  #   conference: Nature Communications, 2022.
+  #   pdf: https://www.nature.com/articles/s41467-022-33536-x
   #   # code: https://github.com/Fischer-Tom/iNeMo
   #   # bibtex: https://bib.yliu.me/ECCV24.txt
   #   # image: https://img.yliu.me/teaser/iNeMo.png
-  #   image: ./assets/img/website_itbs_fig.jpg
+  #   image: ./assets/img/website_ripple_fig.jpg
+
+  - title: "Intermittent theta-burst stimulation induces correlated changes in cortical and corticospinal excitability in healthy older subjects"
+    authors: <strong>Tamara Gedankien</strong>, Peter J Fried, Alvaro Pascual-Leone, Mouhsin M Shafi
+    conference_short: 	Clin. Neurophysiol.
+    conference: Clinical Neurophysiology, 2017.
+    pdf: https://www.sciencedirect.com/science/article/pii/S1388245717309677
+    # code: https://github.com/Fischer-Tom/iNeMo
+    # bibtex: https://bib.yliu.me/ECCV24.txt
+    # image: https://img.yliu.me/teaser/iNeMo.png
+    image: ./assets/img/website_itbs_fig.jpg
  
