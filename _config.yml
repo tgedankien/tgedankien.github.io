@@ -9,7 +9,7 @@ keywords: tamara gedankien, tgedankien, gedankient, gedankien
 description: Tamara Gedankien is a postdoctoral research scientist at Columbia University.
 
 # The option is used to enable the Johns Hopkins template.
-enable_hopkins_logo: false
+enable_hopkins_logo: true
 
 # The option is used to show the last update time.
 enable_last_update: false
