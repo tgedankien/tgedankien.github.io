@@ -57,17 +57,15 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://www.nature.com/articles/s41467-023-41025-y">Acetylcholine modulates the temporal dynamics of human theta oscillations during memory</a></div>
-      <div class="author"> <strong>Tamara Gedankien</strong>, Ryan Joseph Tan, Salman Ehtesham Qasim, Haley Moore, David McDonagh, Joshua Jacobs, Bradley Lega </div>
-      <div class="periodical"><em>Nature Communications <strong>(CVPR)</strong>, 2023.</em>
+      <div class="author"><strong>Tamara Gedankien</strong>, Ryan Joseph Tan, Salman Ehtesham Qasim, Haley Moore, David McDonagh, Joshua Jacobs, Bradley Lega</div>
+      <div class="periodical"><em>Nature Communications<strong>(NatComms)</strong>, 2023.</em>
       </div>
     <div class="links">
       <a href="https://www.nature.com/articles/s41467-023-41025-y" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/yaoyao-liu/meta-transfer-learning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://lyy.mpi-inf.mpg.de/mtl/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://dblp.uni-trier.de/rec/conf/cvpr/SunLCS19.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
 <br>
 <strong> <a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Wu5XyXAAAAAJ&citation_for_view=Wu5XyXAAAAAJ:W7OEmFMy1HYC"><i id="total_citation_mtl">800+</i><i style="color:#e74d3c; font-weight:600"> Citations • </i></a><a href="https://github.com/yaoyao-liu/meta-transfer-learning" target="_blank" rel="noopener"><i style="color:#e74d3c; font-weight:600" id="githubstars_mtl">600+</i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></a> <a style="color:#e74d3c; font-weight:600" href="https://www.comp.nus.edu.sg/news/2019-cvpr-research/">• <i>Featured in NUS News</i></a></strong>
 <br>
+      
 <strong><a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=FXe-a9w0eycJ.2024&vq=en&cstart=60"><i>Top 100 Most Cited CVPR Papers over the Last Five Years</i></a></strong>
   <script>
   githubStars("yaoyao-liu/meta-transfer-learning", function(stars) {
