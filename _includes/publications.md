@@ -58,35 +58,11 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://www.nature.com/articles/s41467-023-41025-y">Acetylcholine modulates the temporal dynamics of human theta oscillations during memory</a></div>
       <div class="author"><strong>Tamara Gedankien</strong>, Ryan Joseph Tan, Salman Ehtesham Qasim, Haley Moore, David McDonagh, Joshua Jacobs, Bradley Lega</div>
-      <div class="periodical"><em>Nature Communications<strong>(NatComms)</strong>, 2023.</em>
+      <div class="periodical"><em>Nature Communications<strong> (NatComms)</strong>, 2023.</em>
       </div>
     <div class="links">
       <a href="https://www.nature.com/articles/s41467-023-41025-y" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      
-<strong><a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=FXe-a9w0eycJ.2024&vq=en&cstart=60"><i>Top 100 Most Cited CVPR Papers over the Last Five Years</i></a></strong>
-  <script>
-  githubStars("yaoyao-liu/meta-transfer-learning", function(stars) {
-  var startext = document.getElementById("githubstars_mtl");
-        startext.innerHTML=stars;
-  });
-  </script>
-  <script>
-      $(document).ready(function () {
-          
-          var gsDataBaseUrl = 'https://raw.githubusercontent.com/yaoyao-liu/yaoyao-liu.github.io/'
-          
-          $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
-              var totalCitation = data['publications']['Uf9GqRsAAAAJ:bEWYMUwI8FkC']['num_citations']
-              document.getElementById('total_citation_mtl').innerHTML = totalCitation;
-              var citationEles = document.getElementsByClassName('show_paper_citations')
-              Array.prototype.forEach.call(citationEles, element => {
-                  var paperId = element.getAttribute('data')
-                  var numCitations = data['publications'][paperId]['num_citations']
-                  element.innerHTML = '| Citations: ' + numCitations;
-              });
-          });
-      })
-  </script>
+  
     </div> 
   </div>
 </div>
