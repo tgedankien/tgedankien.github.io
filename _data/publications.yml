@@ -9,7 +9,7 @@
     # bibtex: https://bib.yliu.me/ECCV24.txt
     # image: https://img.yliu.me/teaser/iNeMo.png
     image: ./assets/img/website_scop1_fig.jpg
-    
+
   - title: "A consensus statement on detection of hippocampal sharp wave ripples and differentiation from other fast oscillations"
     authors: Anli A. Liu, Simon Henin, Saman Abbaspoor, Anatol Bragin, Elizabeth A. Buffalo, Jordan S. Farrell, David J. Foster, Loren M. Frank, <strong>Tamara Gedankien</strong>, Jean Gotman, Jennifer A Guidera, Kari L. Hoffman, Joshua Jacobs, Michael J. Kahana, Lin Li, Zhenrui Liao, Jack J. Lin, Attila Losonczy, Rafael Malach, Matthijs A. van der Meer, Kathryn McClain, Bruce L. McNaughton, Yitzhak Norman, Andrea Navas-Olive, Liset M. de la Prida, Jon W. Rueckemann, John J. Sakon, Ivan Skelin, Ivan Soltesz, Bernhard P. Staresina, Shennan A. Weiss, Matthew A. Wilson, Kareem A. Zaghloul, Michaël Zugaro and György Buzsáki.
     conference_short: Nat. Commun.
@@ -19,6 +19,16 @@
     # bibtex: https://bib.yliu.me/ECCV24.txt
     # image: https://img.yliu.me/teaser/iNeMo.png
     image: ./assets/img/website_ripple_fig.jpg
+
+  - title: "The effect of navigational aids on spatial memory in virtual reality"
+    authors: Shachar Maidenbaum, Ansh Patel, <strong>Tamara Gedankien</strong> and Joshua Jacobs.
+    conference_short: IEEE
+    conference: IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops, 2020.
+    pdf: https://www.brainstimjrnl.com/article/S1935-861X(18)30880-5/fulltext
+    # code: https://github.com/Fischer-Tom/iNeMo
+    # bibtex: https://bib.yliu.me/ECCV24.txt
+    # image: https://img.yliu.me/teaser/iNeMo.png
+    image: ./assets/img/website_itbs_fig.jpg
 
   - title: "Propagation of TMS pulses versus functional brain connectivity"
     authors: D Klooster, J Vink, P van Mierlo, P Boon, Danielle Cooke, <strong>Tamara Gedankien</strong>, Andrew Roberts, Pierre Boucher, Alvaro Pascual-Leone, Michael Fox, and Mouhsin M. Shafi.
