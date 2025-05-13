@@ -1,5 +1,14 @@
  main:
 
+  - title: "Cholinergic blockade reveals role for human hippocampal theta in encoding but not retrieval"
+    authors: <strong>Tamara Gedankien</strong>, Jennifer Kriegel, Erfan Zabeh, David McDonagh, Bradley Lega, Joshua Jacobs
+    conference_short: Preprint
+    conference: Preprint.
+    pdf: https://www.biorxiv.org/content/10.1101/2025.05.12.653487v1
+    # code: https://github.com/Fischer-Tom/iNeMo
+    # bibtex: https://bib.yliu.me/ECCV24.txt
+    image: ./assets/img/website_scop3_fig.jpg
+
   - title: "Acetylcholine modulates the temporal dynamics of human theta oscillations during memory"
     authors: <strong>Tamara Gedankien</strong>, Ryan J. Tan, Salman E. Qasim, Haley Moore, David McDonagh, Joshua Jacobs and Bradley Lega.
     conference_short: Nat. Commun.
