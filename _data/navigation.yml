@@ -12,12 +12,12 @@ main:
 
   #- title: "Teaching"
   #  url: ./#teaching
-  
-  - title: "Preprints"
-    url: ./#preprints
     
   - title: "Publications"
     url: ./#publications
+
+  - title: "Preprints"
+    url: ./#preprints
 
   #- title: "News"
   #  url: ./#news
