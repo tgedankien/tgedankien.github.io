@@ -23,8 +23,8 @@ linkedin: https://www.linkedin.com/in/tamara-gedankien-63a7a929/?locale=en_US
 twitter: https://twitter.com/Gedankient
 
 # Images 
-# avatar: ./assets/img/Gedankien_Headshot.jpg
-favicon: ./assets/img/Gedankien_Headshot.jpg
+avatar: ./assets/img/Gedankien_Headshot.jpg
+# favicon: ./assets/img/Gedankien_Headshot.jpg
 # favicon_dark: ./assets/img/favicon-dark.png
 
 # # Footnotes
