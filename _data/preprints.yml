@@ -5,5 +5,7 @@ main:
     conference_short: Preprint
     conference: Preprint.
     pdf: https://www.biorxiv.org/content/10.1101/2025.05.12.653487v1
+    # code: https://github.com/Fischer-Tom/iNeMo
+    # bibtex: https://bib.yliu.me/ECCV24.txt
     image: ./assets/img/website_scop3_fig.jpg
 
