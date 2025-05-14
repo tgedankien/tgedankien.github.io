@@ -16,8 +16,8 @@ main:
   - title: "Publications"
     url: ./#publications
 
-  - title: "Preprints"
-    url: ./#preprints
+  # - title: "Preprints"
+  #   url: ./#preprints
 
   #- title: "News"
   #  url: ./#news
