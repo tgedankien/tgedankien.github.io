@@ -19,8 +19,9 @@ enable_last_update: false
 link_type: icon #text/icon
 google_scholar: https://scholar.google.com/citations?user=Wu5XyXAAAAAJ&hl=en
 github_link: https://github.com/tgedankien
-linkedin: https://www.linkedin.com/in/tamara-gedankien-63a7a929/?locale=en_US
+linkedin: https://www.linkedin.com/in/tamara-gedankien
 twitter: https://twitter.com/Gedankient
+bluesky: https://bsky.app/profile/gedankien.bsky.social
 
 # Images 
 avatar: ./assets/img/Gedankien_Headshot.jpg
