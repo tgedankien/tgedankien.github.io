@@ -7,6 +7,6 @@
 <br />
 <a href="https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=Tamara&view=VOP">326 Tamara</a>
 <br />
-<a href="https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=gedankien&view=VOP">26345 Gedankien</a>
+<a href="https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=gedankien&view=VOPD">26345 Gedankien</a>
 
 </p>
